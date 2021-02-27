@@ -1,0 +1,1 @@
+[`config.json`](https://github.com/Deltaco-AB/office-configurator/blob/master/public/config.json) for the [DELTACO OFFICE Configurator](https://github.com/Deltaco-AB/office-configurator) featuring DELTACO's product IDs. This config.json in used with the embedded configurator on DELTACO's websites.

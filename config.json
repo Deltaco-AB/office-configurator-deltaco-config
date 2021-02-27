@@ -1,0 +1,219 @@
+{
+	"categories": {
+		"1": {
+			"name": "Desktops",
+			"enabled": true
+		},
+		"2": {
+			"name": "Ergonomics",
+			"enabled": true
+		},
+		"3": {
+			"name": "Accessories",
+			"enabled": true
+		},
+		"4": {
+			"name": "Accessories",
+			"enabled": false
+		}
+	},
+	"products": {
+		"DELO-0201": {
+			"category": 3,
+			"incompatible": [],
+			"add": [
+				"DELO-0201"
+			],
+			"flags": {}
+		},
+		"DELO-0100": {
+			"category": 1,
+			"incompatible": [],
+			"add": [
+				"DELO-0100"
+			],
+			"flags": {
+				"outlined": true
+			}
+		},
+		"DELC-0100": {
+			"category": 3,
+			"incompatible": [],
+			"add": [
+				"DELC-0100"
+			],
+			"flags": {}
+		},
+		"DELO-0150": {
+			"category": 3,
+			"incompatible": [
+				"DELO-0153"
+			],
+			"add": [
+				"DELO-0150"
+			],
+			"flags": {}
+		},
+		"DELO-0151": {
+			"category": 0,
+			"incompatible": [],
+			"add": [
+				"DELO-0151"
+			],
+			"flags": {}
+		},
+		"DELO-0152": {
+			"category": 3,
+			"incompatible": [
+				"DELO-0153"
+			],
+			"add": [
+				"DELO-0152",
+				"DELO-0151"
+			],
+			"flags": {
+				"enableCategory": 4
+			}
+		},
+		"DELO-0153": {
+			"category": 3,
+			"incompatible": [
+				"DELO-0150",
+				"DELO-0152"
+			],
+			"add": [
+				"DELO-0153",
+				"DELO-0151"
+			],
+			"flags": {
+				"enableCategory": 4
+			}
+		},
+		"DELO-0155": {
+			"category": 4,
+			"incompatible": [],
+			"add": [
+				"DELO-0155"
+			],
+			"flags": {}
+		},
+		"DELO-0154": {
+			"category": 4,
+			"incompatible": [],
+			"add": [
+				"DELO-0154"
+			],
+			"flags": {}
+		},
+		"DELO-0156": {
+			"category": 4,
+			"incompatible": [],
+			"add": [
+				"DELO-0156"
+			],
+			"flags": {}
+		},
+		"DELO-0157": {
+			"category": 4,
+			"incompatible": [],
+			"add": [
+				"DELO-0157"
+			],
+			"flags": {}
+		},
+		"DELO-0158": {
+			"category": 4,
+			"incompatible": [],
+			"add": [
+				"DELO-0158"
+			],
+			"flags": {}
+		},
+		"DELO-0200": {
+			"category": 3,
+			"incompatible": [],
+			"add": [
+				"DELO-0200"
+			],
+			"flags": {}
+		},
+		"DELO-0202": {
+			"category": 3,
+			"incompatible": [],
+			"add": [
+				"DELO-0202"
+			],
+			"flags": {}
+		},
+		"DELO-0301": {
+			"category": 2,
+			"incompatible": [
+				"DELO-0300",
+				"DELO-0302"
+			],
+			"add": [
+				"DELO-0301"
+			],
+			"flags": {}
+		},
+		"DELO-0203": {
+			"category": 3,
+			"incompatible": [
+				"DELO-0204"
+			],
+			"add": [
+				"DELO-0203"
+			],
+			"flags": {}
+		},
+		"DELO-0204": {
+			"category": 3,
+			"incompatible": [
+				"DELO-0203"
+			],
+			"add": [
+				"DELO-0204"
+			],
+			"flags": {}
+		},
+		"DELO-0300": {
+			"category": 2,
+			"incompatible": [
+				"DELO-0301",
+				"DELO-0302"
+			],
+			"add": [
+				"DELO-0300"
+			],
+			"flags": {}
+		},
+		"DELO-0302": {
+			"category": 2,
+			"incompatible": [
+				"DELO-0303",
+				"DELO-0301",
+				"DELO-0300"
+			],
+			"add": [],
+			"flags": {}
+		},
+		"DELO-0303": {
+			"category": 2,
+			"incompatible": [
+				"DELO-0302"
+			],
+			"add": [
+				"DELO-0303"
+			],
+			"flags": {}
+		},
+		"DELO-0402": {
+			"category": 3,
+			"incompatible": [],
+			"add": [
+				"DELO-0402"
+			],
+			"flags": {}
+		}
+	}
+}
